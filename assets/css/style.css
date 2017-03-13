@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+    background-image: url("../images/moon-478982_1920.jpg");
+    background-size: 1440px 800px;
+    background-repeat:no-repeat;
+    font-family: 'Rubik Mono One', sans-serif;
+
+}
+
+.jumbotron {
+	text-align:center;
+	padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #FFFFC7;
+
+}
+
+#howto p {
+	font-family:'Open Sans', sans-serif;
+	text-align: left;
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+.panel-heading {
+	background-color: black;
+}
+
+
